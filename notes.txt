@@ -1,0 +1,6 @@
+
+MULTER - is for uploading file
+FLASH and SESSIONS for messages
+
+foundation6 - an ALTERNATIVE TO BOOTSTRAP
+we need a variable upload which will be equal to multer
